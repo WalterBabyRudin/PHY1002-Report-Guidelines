@@ -1,0 +1,12 @@
+\contentsline {section}{\numberline {1}Objective:}{2}
+\contentsline {section}{\numberline {2}Method:}{2}
+\contentsline {paragraph}{Write good English}{2}
+\contentsline {paragraph}{Keep the reader in mind}{2}
+\contentsline {paragraph}{Write to allow skipping over formulas}{2}
+\contentsline {paragraph}{Be precise with your language}{2}
+\contentsline {paragraph}{Use the editorial we when appropriate}{2}
+\contentsline {paragraph}{Don\IeC {\textquoteright }t start a sentence with a symbol}{3}
+\contentsline {paragraph}{Do not italicize English in math mode.}{3}
+\contentsline {section}{\numberline {3}Raw Data:}{3}
+\contentsline {section}{\numberline {4}Data and Error Analysis:}{4}
+\contentsline {section}{\numberline {5}Conclusion}{4}
